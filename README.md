@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis, soon retired from aviation (licensed aircraft maintenance engineer). 
-- 👀 I’m interested in FreeCAD Addons like macros to be used on my maker live as a hobbist.
+- 👀 I’m interested in FreeCAD Addons like macros to be used on my maker's life as a hobbist.
 - 🌱 I’m currently learning CAD for 3D printing my own projects.
-- 💞️ I’m looking to collaborate on English to Portuguese (PT / BR) translations on Tech docs.
+- 💞️ I can collaborate on English to Portuguese (PT / BR) translations for Tech docs.
 - 📫 How to reach me lfans20001@gmail.com or just here...still getting used to GitHub...
 
 <!---
